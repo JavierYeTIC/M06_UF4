@@ -1,0 +1,11 @@
+.counterContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px; 
+    border: 2px solid #333; 
+    border-radius: 10px;
+    font-size: 94px; 
+  }
+  

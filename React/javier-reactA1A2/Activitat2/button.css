@@ -1,0 +1,23 @@
+.btnClick {
+    background-color: rgb(59, 11, 203);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btnClick:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+.btnReiniciar {
+    background-color: rgb(204, 16, 167);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btnReiniciar:hover {
+    background-color: red;
+}
