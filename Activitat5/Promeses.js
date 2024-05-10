@@ -50,6 +50,6 @@ function division(num1, num2) {
 let num1 = 10;
 let num2 = 2;
 
-dividir(num1, num2)
+division(num1, num2)
     .then(resultat => console.log("El resultat de la divisió és:", resultat))
     .catch(error => console.error(error.message));
